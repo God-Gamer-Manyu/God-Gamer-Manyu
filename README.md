@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Rtamanyu%20N%20J&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Agentic%20AI%20%7C%20Research&descAlignY=60&descSize=18" alt="Rtamanyu N J banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Rtamanyu%20N%20J&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Data%20Science%20%7C%20Agentic%20AI%20%7C%20Research&descAlignY=60&descSize=18" alt="Rtamanyu N J banner" width="100%"/>
 
 <a href="https://github.com/God-Gamer-Manyu">
   <img src="https://github.com/God-Gamer-Manyu.png" width="130" alt="Rtamanyu N J" style="border-radius:50%"/>

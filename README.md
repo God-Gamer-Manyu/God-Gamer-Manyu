@@ -24,7 +24,7 @@
 
 I'm a third-year **AI & Data Science** student pursuing a **B.Tech at Amrita Vishwa Vidyapeetham** alongside a **BS in Data Science at IIT Madras**. I build **agentic AI systems, machine-learning pipelines and research prototypes**, from LLM agents that navigate real websites to deep-learning models for molecules, polymers and proteins.
 
-My track record spans **national-level innovation** (Grand Prize, Toycathon 2021, organised by the Government of India), **peer-reviewed publications** (IEEE Xplore, *Nature* Scientific Reports), an **AI internship** shipping a production scraping backend, and **robotics work** on the Amrita Rover team. I enjoy turning hard, open-ended problems into reliable, well-engineered software.
+My track record spans **national-level innovation** (Grand Prize, Toycathon 2021, organised by the Government of India), **peer-reviewed publications** (IEEE Xplore, *Nature* Scientific Reports), an **AI internship** shipping a production scraping backend, and **science leadership** on the Amrita Rover team. I enjoy turning hard, open-ended problems into reliable, well-engineered software.
 
 <table>
 <tr>
@@ -32,7 +32,7 @@ My track record spans **national-level innovation** (Grand Prize, Toycathon 2021
 
 **🔭 Currently**
 - 🤖 Building multi-agent systems with **Google ADK, LangGraph & MCP**
-- 🦾 Robotics Engineer on the **Amrita Rover Team** (ROS + Gazebo, International Robot Competition 2026)
+- 🦾 **Science Lead** of the **Amrita Rover Team**, targeting the International Robot Competition 2026 (science modules, ROS + Gazebo)
 - 🔐 Researching a **post-quantum E2EE messaging protocol** over QUIC
 - 🎓 B.Tech (AI & DS) · BS (Data Science, IIT Madras), 2024 – 2028
 
@@ -274,7 +274,7 @@ A full-stack Flask app with separate Admin, Doctor and Patient dashboards: appoi
 | Role / Event | Details |
 |---|---|
 | 🧑‍💼 **AI Intern**, ApplyBee (2025) | Built an end-to-end backend that scrapes job listings with **Agentic AI** |
-| 🦾 **Robotics Engineer**, Amrita Rover Team (present) | Gazebo + ROS simulation and control for a competitive rover targeting the International Robot Competition 2026 |
+| 🦾 **Science Lead**, Amrita Rover Team (present) | Leading the science team for a competitive rover targeting the International Robot Competition 2026, including sample-integrity and soil-penetrability modules and Gazebo + ROS simulation |
 | 🥇 **Grand Prize Winner**, Toycathon 2021 | National first place (Govt. of India) with an **AR game**, among thousands of teams |
 | 🎮 **Mobile Game Developer** (2019 – 2021) | Designed, built and published multiple games on app stores, from concept to launch |
 | 🏁 **Hackathons & contests** (2024 – 2026) | ICPC 2025 (National Round) · Novo Nordisk Hackathon · NeurIPS Open Polymer Prediction · Google Agentic AI Hackathon · Smart India Hackathon |

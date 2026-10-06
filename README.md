@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Rtamanyu%20N%20J&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%C2%B7%20Agentic%20AI%20Engineer%20%C2%B7%20Researcher&descAlignY=58&descSize=18" alt="Rtamanyu N J banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Rtamanyu%20N%20J&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Agentic%20AI%20%7C%20Research&descAlignY=60&descSize=18" alt="Rtamanyu N J banner" width="100%"/>
 
 <a href="https://github.com/God-Gamer-Manyu">
   <img src="https://github.com/God-Gamer-Manyu.png" width="130" alt="Rtamanyu N J" style="border-radius:50%"/>
@@ -13,7 +13,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/GodProgrammer98)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rtamanyu@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=God-Gamer-Manyu&label=Profile%20Views&color=2c5364&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/God-Gamer-Manyu?label=Followers&style=flat-square&color=2c5364)
 ![Repos](https://img.shields.io/badge/Projects-70%2B-2c5364?style=flat-square)
 
@@ -291,7 +290,6 @@ A full-stack Flask app with separate Admin, Doctor and Patient dashboards: appoi
 
 <img src="https://streak-stats.demolab.com?user=God-Gamer-Manyu&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=God-Gamer-Manyu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
 

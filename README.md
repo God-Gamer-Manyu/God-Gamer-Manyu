@@ -285,7 +285,7 @@ A full-stack Flask app with separate Admin, Doctor and Patient dashboards: appoi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=God-Gamer-Manyu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=God-Gamer-Manyu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=God-Gamer-Manyu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=God-Gamer-Manyu&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
